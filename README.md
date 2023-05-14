@@ -18,5 +18,5 @@ To create a high-pass image for a different but aligned image, we first apply Ga
 The combination of two pictures can result in a hybrid image, which is illustrated below. To simulate the object's movement closer or farther from your viewpoint, the image is downscaled.
 
 
-![results-hybrid_image](https://github.com/ibrahimhamada/Hybrid-Images/assets/58476343/add93692-f731-41a5-8053-b4ad81931618) ![results-hybrid_image_scales](https://github.com/ibrahimhamada/Hybrid-Images/assets/58476343/26c4c4af-74a3-49e5-9b4f-98b47642c72f)
+![results-hybrid_image_scales](https://github.com/ibrahimhamada/Hybrid-Images/assets/58476343/26c4c4af-74a3-49e5-9b4f-98b47642c72f)
 
